@@ -1,7 +1,13 @@
-# furry-guide
+# furry-guide <a href="#"><img src= ""/></a>
 ## this is H2 heading
+
+### this is the bullet  below
+
 * red
 * green 
 * blue 
-
-pluralsight repo demo
+#### this is list below
+- sample1
+- sample2
+- sample3
+- sample4
